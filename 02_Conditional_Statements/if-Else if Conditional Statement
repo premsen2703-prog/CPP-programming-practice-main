@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+   int x = 7 ;
+   if (x>0){
+       cout<<"x is Positive";
+   }
+   else if (x<0){
+       cout<<"x is Negative";
+   }
+   else {
+       cout<<"x is Zero";
+   }
+    return 0;
+}
